@@ -1,4 +1,4 @@
-                                            ** Automating the HSBC Banking Application Using Cypress**  
+                               ** Automating the HSBC Banking Application Using Cypress**  
 
 Project Overview:
 
