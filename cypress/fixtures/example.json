@@ -1,0 +1,5 @@
+{
+  "username": "testUser123",
+  "email": "testuser@hsbc.com",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
