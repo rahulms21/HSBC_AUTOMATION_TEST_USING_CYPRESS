@@ -1,4 +1,4 @@
-                                             **Automating the HSBC Banking Application Using Cypress**
+                                            ** Automating the HSBC Banking Application Using Cypress**  
 
 Project Overview:
 
@@ -55,8 +55,7 @@ Screenshots:
 2.
 ![image](https://github.com/user-attachments/assets/7cf3180c-e75b-433a-b78d-ce6b4beee571)
 
-3.
-![image](https://github.com/user-attachments/assets/f8cc06c1-d1c8-4585-9445-1c8e41e21339)
 
-4.
+
+3.
 ![image](https://github.com/user-attachments/assets/2c9b6218-8ef3-4ed5-9180-ab96a683b87d)
