@@ -48,7 +48,7 @@ By automating the HSBC Banking Application with Cypress, this project will help
 streamline the testing process, reduce manual effort, and ensure that critical 
 functionalities such as login, ATM search, and credit card flows are robust and reliable.
 
-Screenshots :
+Screenshots:
 1.
 ![image](https://github.com/user-attachments/assets/ad99aa36-188e-410e-adb3-c0c77462332b)
 
