@@ -30,7 +30,7 @@ Test Scenarios:
 
 
 Steps Involved:
-1. Setting Up the Environment:
+1. Setting Up the Environment :
 
 2. Creating Test Cases:
 
