@@ -7,7 +7,7 @@ website (HSBC.co.in) using the Cypress.io framework. This will involve setting u
 test automation environment, creating and executing automated test cases, and 
 ensuring that various banking functionalities on the website work as expected.
 
-Tools Required:
+Tools Required :
 1. Node.js:
 
 2. Java 1.8+:
