@@ -14,7 +14,7 @@ Tools Required:
 
 3. Studio Code (VS Code):
 
-4. Cypress :
+4. Cypress:
 
  
 
