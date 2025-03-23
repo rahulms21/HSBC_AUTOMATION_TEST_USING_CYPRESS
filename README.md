@@ -1,6 +1,6 @@
                                **Automating the HSBC Banking Application Using Cypress**  
 
-Project Overview:
+Project Overview :
 
 The goal of this project is to automate the testing of functionalities on the HSBC India 
 website (HSBC.co.in) using the Cypress.io framework. This will involve setting up a 
