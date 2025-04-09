@@ -18,7 +18,7 @@ Tools Required:
 
  
 
-Test Scenarios :
+Test Scenarios:
 1. HSBC Login Test Scenario: 
 • Objective: Automate the login page functionality validation.
 
