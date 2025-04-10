@@ -40,7 +40,7 @@ Steps Involved:
 
 5. Analysing Test Results:
 
-6. Maintaining and Extending Test Suites:
+6. Maintaining and Extending Test Suites :
 
 Conclusion:
 
